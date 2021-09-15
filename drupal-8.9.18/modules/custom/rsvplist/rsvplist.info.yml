@@ -1,0 +1,6 @@
+name: RSVP List
+type: module
+description: RSVP list module for node events
+core: 8.x
+configure: rsvplist.admin_settings
+package: custom
